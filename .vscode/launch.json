@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/home/clifford/Documents/Zetech Files/Structured Programming/C Programming/Decision Structures/if....else if ......else",
+      "program": "/home/clifford/Documents/Zetech Files/Structured Programming/C Programming/Decision Structures/if....else if ......else/build/Debug/outDebug"
+    }
+  ]
+}
