@@ -1,6 +1,7 @@
 {
   "configurations": [
     {
+<<<<<<< HEAD
       "name": "linux-gcc-x64",
       "includePath": [
         "${workspaceFolder}/**"
@@ -12,6 +13,17 @@
       "compilerArgs": [
         ""
       ]
+=======
+      "name": "linux-clang-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c17",
+      "cppStandard": "c++14",
+      "intelliSenseMode": "linux-clang-x64"
+>>>>>>> a8d58068cb2398ae6ab1c8990e879b928d020c6b
     }
   ],
   "version": 4
